@@ -1,0 +1,4 @@
+name = input ("hi there, what is your name?")
+print("hello",name)
+feeling = input ("how are you feeling today")
+print("I am glad you are feeling",feeling)
