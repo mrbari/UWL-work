@@ -1,4 +1,8 @@
-name = input ("hi there, what is your name?")
-print("hello",name)
-feeling = input ("how are you feeling today")
-print("I am glad you are feeling",feeling)
+print("Enter the 2 numbers")
+
+num1 = int(input("enter sum"))
+num2 = int(input("enter second num"))
+
+sum = num1+num2
+
+print(sum)
